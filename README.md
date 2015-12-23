@@ -1,4 +1,4 @@
 # Data Structures and OOP
 
-A [Radix Tree](http://elf.cs.pub.ro/poo/teme/tema1) implementation.
+A [Radix Tree](https://en.wikipedia.org/wiki/Radix_tree) implementation.
 
