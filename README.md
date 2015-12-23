@@ -1,4 +1,4 @@
-My RadixTree implementation for OOP class.
+# Data Structures and OOP
 
-Homework requirements [page](http://elf.cs.pub.ro/poo/teme/tema1)
+A [Radix Tree](http://elf.cs.pub.ro/poo/teme/tema1) implementation.
 
